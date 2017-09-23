@@ -50,5 +50,5 @@ Test Practo
     [Documentation]         Test Practo
     Input Text    q    practo
     Submit Form
-    Wait Until Page Contains    Searches related to Practo    
+    Wait Until Page Contains    Searches related to practo    
     
